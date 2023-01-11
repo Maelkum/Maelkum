@@ -12,7 +12,7 @@ I'm a software engineer that takes pride in always being curious and itchy to lo
 ## Get in touch ☕
 
 - ✉ [Email](mailto:pathlidge.ann@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aleksandar-%C4%8Dekrli%C4%87-5b1588b5/)
+- [LinkedIn](https://www.linkedin.com/in/aleksandar-cekrlic/)
 - [Here (recursion)](https://github.com/Maelkum)
 
 <!--
