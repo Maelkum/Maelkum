@@ -9,8 +9,6 @@
 
 I'm a distributed systems engineer that takes pride in always being curious and itchy to look under the hood. Passionate about programming and engineering. Years of experience in Go and C, with some excursions in C++, Perl, Python and a bunch of other stuff. If I'm not tinkering with tech, I'm probably outdoors, fishing 🎣 or hiking 🥾.
 
-Available for hire.
-
 ## Get in touch 📫
  
 - ✉ [Email](mailto:aleksandar.cekrlic@gmail.com)
