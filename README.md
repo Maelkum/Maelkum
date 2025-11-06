@@ -6,7 +6,7 @@ I'm a distributed systems engineer that takes pride in always being curious and 
 
 ### Get in touch 📫
  
-- ✉ [Email](mailto:aleksandar.cekrlic@gmail.com)
+- ✉ [Email](mailto:aleksandar@atg.sh)
 - ➡ [LinkedIn](https://www.linkedin.com/in/aleksandar-cekrlic/)
 - ♾️[Here (recursion)](https://github.com/Maelkum)
 
